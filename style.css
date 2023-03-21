@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui;
+}
+
+.title {
+    color: rgb(123, 74, 169);
+    text-align: center;
+}
